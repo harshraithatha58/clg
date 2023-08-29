@@ -11,7 +11,7 @@ int main(){
         reversed = reversed*10 + remainder;
         n = n/10;
     }
-    
+    printf("%d",reversed);
 
     return 0;
 }
