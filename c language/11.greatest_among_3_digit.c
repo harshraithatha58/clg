@@ -6,9 +6,9 @@ int main(){
     
     printf("Enter The Number A : ");
     scanf("%d",&a);
-    printf("Enter The Number A : ");
+    printf("Enter The Number B : ");
     scanf("%d",&b);
-    printf("Enter The Number A : ");
+    printf("Enter The Number C : ");
     scanf("%d",&c);
 
     if (a>b)
